@@ -1,0 +1,3 @@
+== Slim Template Engine Example App
+
+Slim Template Engine Example.  See http://richonrails.com/articles/the-slim-template-engine for details.
